@@ -1,0 +1,24 @@
+CoE 164 Midterm Problem Submission Notes
+
+Group Members:
+- John Danielle T. Castor, 2020-xxxxx, III-CoE
+- Lovely Ann Faderogao, 2019-xxxxx, III-CoE
+- Steven Sison, 2020-xxxxx, III-CoE
+
+Division of Parts:
+
+1. diropql Interpreter and (De)Obfuscator Pre-processing
+	- Lovely Ann Faderogao
+2. Preogram (De)Compressor
+	- Steven Sison
+3. Test Suite
+	- John Danielle T. Castor
+4. Combined Program
+	- John Danielle T. Castor
+	- Lovely Ann Faderogao
+	- Steven Sison
+
+Acknowledgement:
+- John Danielle T. Castor, 2020-xxxxx, III-CoE
+- Lovely Ann Faderogao, 2019-xxxxx, III-CoE
+- Steven Sison, 2020-xxxxx, III-CoE
