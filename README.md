@@ -1,4 +1,4 @@
-*CoE164 Midterm
+# CoE164 Midterm
 
 *Run COE-164-MIDP/src/main.py
 
